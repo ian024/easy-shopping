@@ -27,8 +27,14 @@
   <img src="https://github.com/ian024/easy-shopping/blob/main/assets/mobile.jpg?raw=true" height="500px" />
 </h3>
 
-<h4 align="center"> :rocket: Estou em transição de carreira, se precisa entre contato </h4>
+<h4 align="center"> :rocket: Estou em transição de carreira, se precisar entre contato </h4>
 
-<a>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-</a>
+<p>
+  <a href="https://www.instagram.com/yannsanttos20">
+    <img align="left" alt="icone do instagram uma dentro de um quadrado width="22px" src=	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white />
+  </a>
+  <a href="https://www.linkedin.com/in/ian-da-rocha-dos-santos-028219239">
+    <img align="left" alt="linkedln width="22px" src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit />
+  </a>
+</p>
+
